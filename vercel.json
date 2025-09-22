@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://lustr.nl/portfolio/zandvoortse-beeldbepalend-cultureel-evenement/",
+      "destination": "https://lustr.nl/portfolio/festival-vloed/",
       "permanent": true
     }
   ]
